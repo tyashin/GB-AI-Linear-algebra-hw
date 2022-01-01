@@ -1,2 +1,3 @@
-# -GB-AI-linear-algebra-hw
-Решения домашних заданий курса "Линейная алгебра" на факультете AI GB.ru. 
+## GeekBrains course "Линейная алгебра" homeworks
+
+## WIP
